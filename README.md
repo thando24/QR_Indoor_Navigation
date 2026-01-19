@@ -27,10 +27,9 @@ use lastes verion of pip
    ```bash 
    python Navigation2.py
     ```
-   Navigation_link.txt contain the public URL lint for the Navigation web app
-      ```
+   
 b. Then run the online Naviagation web app  in a different terminal
    ```bash 
 python Online_NavgApp.py
-   
        ```
+Navigation_link.txt contain the public URL lint for the Navigation web app
