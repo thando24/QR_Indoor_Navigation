@@ -25,7 +25,9 @@ use lastes verion of pip
 5. To Run
    a. First run local Naviagation web app  in the terminal
    ```bash 
-   python Navigation.py
+   python Navigation2.py
+    ```
+   Navigation_link.txt contain the public URL lint for the Navigation web app
       ```
 b. Then run the online Naviagation web app  in a different terminal
    ```bash 
